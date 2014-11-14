@@ -1,0 +1,36 @@
+{
+  "author": {
+    "name": "Devin Despain",
+    "email": "devin@dspa.in"
+  },
+  "name": "ah-sequelizedocs-plugin",
+  "description": "actionhero.js sequelize model documentation plugin",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dangerdespain/ah-sequelizedocs-plugin"
+  },
+  "keywords": [
+    "actionhero",
+    "sequelize",
+    "documentation"
+  ],
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "dependencies": {
+    "underscore": "^1.7.0",
+    "marked":"0.3.2"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "directories": {},
+  "homepage": "https://github.com/dangerdespain/ah-sequelizedocs-plugin",
+  "scripts": {},
+  "readme": "See documentation at https://github.com/dangerdespain/ah-sequelizedocs-plugin",
+  "bugs": {
+    "url": "https://github.com/dangerdespain/ah-sequelizedocs-plugin/issues"
+  },
+  "_id": "ah-sequelizedocs-plugin@0.0.1",
+  "_from": "ah-sequelizedocs-plugin@*"
+}
